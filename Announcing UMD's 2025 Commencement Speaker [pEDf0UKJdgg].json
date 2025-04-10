@@ -1,0 +1,1 @@
+{"text": " I guess it's me.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 29.28, "text": " I guess it's me.", "tokens": [50364, 286, 2041, 309, 311, 385, 13, 51828], "temperature": 0.0, "avg_logprob": -0.898074722290039, "compression_ratio": 0.6666666666666666, "no_speech_prob": 0.08384433388710022}], "language": "en"}
